@@ -139,12 +139,13 @@ Countries (Input any specific country, leave blank for worldwide news):
 
 Categories (Provide 6 specific categories, leave blank for general):
 <br />
-  1.Business <br />
-  2.Entertainment <br />
-  3.General <br />
-  4.Health <br />
-  5.Science <br />
-  6.Technology <br />
+
+  1. Business
+  2. Entertainment
+  3. General
+  4. Health
+  5. Science
+  6. Technology
 
 Available sources (leave blank for any source):
 <br />
