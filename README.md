@@ -149,11 +149,11 @@ Categories (Provide 6 specific categories, leave blank for general):
 
 Available sources (leave blank for any source):
 <br />
-  wsj: Wall Street Journal
-  nyt: New York Times
-  bbc-news: BBC News
-  cnn: CNN
-  abc-news: ABC News
+  * wsj: Wall Street Journal
+  * nyt: New York Times
+  * bbc-news: BBC News
+  * cnn: CNN
+  * abc-news: ABC News
 <br />
 Keyword search, separate keys by commas (leave empty for none): 
 
