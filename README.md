@@ -154,7 +154,7 @@ Available sources (leave blank for any source):
   * bbc-news: BBC News
   * cnn: CNN
   * abc-news: ABC News
-<br />
+
 Keyword search, separate keys by commas (leave empty for none): 
 
 
