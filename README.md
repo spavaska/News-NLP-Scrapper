@@ -197,6 +197,10 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
+
+* [![Python][Python.org]][Python-url]
+
+  
 * [![GeeksforGeeks][GeeksforGeeks.org]][GeeksforGeeks-url]
   
 * [Img Shields](https://shields.io)
@@ -227,9 +231,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [NewsAPI-url]: https://newsapi.org/
 [spaCy.io]: https://img.shields.io/badge/spaCy.io-1DA1F2
 [spaCy-url]: https://spacy.io/
-[GeeksforGeeks.org]: https://www.geeksforgeeks.org/fetching-top-news-using-news-api/
-[GeeksforGeeks-url]: https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white
-
+[GeeksforGeeks.org]: https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white
+[GeeksforGeeks-url]: https://www.geeksforgeeks.org/fetching-top-news-using-news-api/
 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
