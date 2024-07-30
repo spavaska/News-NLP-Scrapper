@@ -28,7 +28,7 @@
     <img src="https://www.pngkey.com/png/detail/346-3465683_file-newspaper-cover-svg-newspaper-cartoon-png.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">News Scrapper w/ NLP Summarizer</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -72,8 +72,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 News-NLP-Scrapper is a Python project that fetches news articles using the News API and processes the text using spaCy for Natural Language Processing (NLP) tasks. The project allows users to search for news articles based on specific keywords, categories, and sources, and provides summaries of the articles.
 
 
@@ -89,15 +87,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![spaCy][spaCy.io]][spaCy-url]
 * [![NewsAPI][NewsAPI.org]][NewsAPI-url]
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -105,16 +94,13 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* Python 3.6+
+* spaCy
+* News API key
 
 ### Installation
 
@@ -211,7 +197,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Choose an Open Source License](https://choosealicense.com)
+* [![GeeksforGeeks][GeeksforGeeks.org]][GeeksforGeeks-url]
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
 * [Malven's Grid Cheatsheet](https://grid.malven.co/)
@@ -246,6 +232,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [NewsAPI-url]: https://newsapi.org/
 [spaCy.io]: https://img.shields.io/badge/spaCy.io-1DA1F2
 [spaCy-url]: https://spacy.io/
+[GeeksforGeeks.org]: https://www.geeksforgeeks.org/fetching-top-news-using-news-api/
+[GeeksforGeeks-url]: https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white
 
 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
