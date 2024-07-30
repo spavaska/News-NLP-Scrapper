@@ -72,8 +72,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-News-NLP-Scrapper is a Python project that fetches news articles using the News API and processes the text using spaCy for Natural Language Processing (NLP) tasks. The project allows users to search for news articles based on specific keywords, categories, and sources, and provides summaries of the articles.
-
+News-NLP-Scrapper is a Python project that fetches trending news articles using the News API and processes the text using spaCy for Natural Language Processing (NLP) tasks. The project allows users to search for news articles based on a multitude of preferences. The user can specify which country they want news from, specific categories, keywords to highlight, and even news sources. The scrapper then fetches trending news articles that meet the users' specification and provides short summaries of those articles
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,6 +135,26 @@ Run the script:
 python fetch_news.py
 ```
 
+Countries (Input any specific country, leave blank for worldwide news):
+
+Categories (Provide 6 specific categories, leave blank for general):
+  1.Business
+  2.Entertainment
+  3.General
+  4.Health
+  5.Science
+  6.Technology
+
+Available sources (leave blank for any source):
+  wsj: Wall Street Journal
+  nyt: New York Times
+  bbc-news: BBC News
+  cnn: CNN
+  abc-news: ABC News
+
+Keyword search, separate keys by commas (leave empty for none): 
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -146,6 +165,7 @@ python fetch_news.py
 - [ ] Enhance summarization capabilities
 - [ ] Improve keyword search (Doesn't work when no summaries are available)
 - [ ] Add more NLP features
+- [ ] Add sports category
 - [ ] Multi-language Support
     - [ ] Spanish
     - [ ] Hindi
