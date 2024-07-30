@@ -138,20 +138,22 @@ python fetch_news.py
 Countries (Input any specific country, leave blank for worldwide news):
 
 Categories (Provide 6 specific categories, leave blank for general):
-  1.Business
-  2.Entertainment
-  3.General
-  4.Health
-  5.Science
-  6.Technology
+<br />
+  1.Business <br />
+  2.Entertainment <br />
+  3.General <br />
+  4.Health <br />
+  5.Science <br />
+  6.Technology <br />
 
 Available sources (leave blank for any source):
+<br />
   wsj: Wall Street Journal
   nyt: New York Times
   bbc-news: BBC News
   cnn: CNN
   abc-news: ABC News
-
+<br />
 Keyword search, separate keys by commas (leave empty for none): 
 
 
