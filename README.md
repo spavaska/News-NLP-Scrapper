@@ -185,7 +185,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Sohum Pavaskar - spavaska@umich.edu
+Sohum Pavaskar - spavaska@umich.edu
 
 Project Link: https://github.com/spavaska/News-NLP-Scrapper
 
@@ -196,10 +196,6 @@ Project Link: https://github.com/spavaska/News-NLP-Scrapper
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-
-  
 * [![GeeksforGeeks][GeeksforGeeks.org]][GeeksforGeeks-url]
   
 * [Img Shields](https://shields.io)
