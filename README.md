@@ -147,8 +147,9 @@ python fetch_news.py
 - [ ] Improve keyword search (Doesn't work when no summaries are available)
 - [ ] Add more NLP features
 - [ ] Multi-language Support
-    - [ ] Chinese
     - [ ] Spanish
+    - [ ] Hindi
+    - [ ] Chinese
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -186,7 +187,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - Sohum Pavaskar - spavaska@umich.edu
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: https://github.com/spavaska/News-NLP-Scrapper
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,8 +198,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-
-* [![Python][Python.org]][Python-url]
 
   
 * [![GeeksforGeeks][GeeksforGeeks.org]][GeeksforGeeks-url]
