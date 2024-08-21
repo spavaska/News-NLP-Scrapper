@@ -31,7 +31,6 @@
   <h3 align="center">News Scrapper w/ NLP Summarizer</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
